@@ -1,2 +1,2 @@
-# enhanced-protonet-with-skd-for-fsl
-This is the implementation code for the paper "Enhanced ProtoNet with Self-Knowledge Distillation for Few-Shot Learning"
+# Enhanced ProtoNet with Self-Knowledge Distillation for Few-Shot Learning
+This implementation code will be available after the publication. 
